@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "schoolTds",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 36,
     "versionPublish": "4.5.4",
@@ -1118,13 +1118,13 @@
             }
           },
           "_cid": "qHIRBiV97G",
+          "_anchor": "menu1-x",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-x",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "_styles": {
