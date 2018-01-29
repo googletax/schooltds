@@ -1436,6 +1436,65 @@ body {
 .cid-qHJzRoO2wo P {
   color: #ffffff;
 }
+.cid-qI5Rw1vMIw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1516x1080.jpg");
+}
+.cid-qI5Rw1vMIw .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-qI5Rw1vMIw .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-qI5Rw1vMIw .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-qI5Rw1vMIw .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-qI5Rw1vMIw .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-qI5Rw1vMIw .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-qI5Rw1vMIw .plan-header,
+.cid-qI5Rw1vMIw .plan-body {
+  background-color: #fff;
+}
+.cid-qI5Rw1vMIw .price-figure {
+  font-weight: 700;
+  color: #232323;
+  text-align: center;
+}
+.cid-qI5Rw1vMIw .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-qI5Rw1vMIw .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-qI5Rw1vMIw .plan-title {
+  text-align: center;
+}
 .cid-qHIRBiV97G .navbar {
   padding: .5rem 0;
   background: #073b4c;
