@@ -31,7 +31,7 @@ body {
 }
 .display-4 {
   font-family: 'Poppins', sans-serif;
-  font-size: 0.875rem;
+  font-size: 1rem;
 }
 .display-5 {
   font-family: 'Poppins', sans-serif;
@@ -39,7 +39,7 @@ body {
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.06rem;
+  font-size: 1.2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -58,9 +58,9 @@ body {
     line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.7rem;
-    font-size: calc( 0.95625rem + (0.875 - 0.95625) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.95625rem + (0.875 - 0.95625) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -827,13 +827,13 @@ pre {
   font-size: 4.8rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.696rem;
+  font-size: 1.92rem;
 }
 .display-7 {
   font-weight: 300;
