@@ -1484,6 +1484,8 @@ body {
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background: url("../../../assets/images/background3.jpg");
 }
 .cid-r8dO20hATM .mbr-section-title {
