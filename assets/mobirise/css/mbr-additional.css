@@ -1579,7 +1579,7 @@ body {
   }
 }
 .cid-r8e4xzd05X {
-  background-color: #a2a2a2;
+  background-image: url("../../../assets/images/mbr-1920x1289.jpg");
 }
 .cid-r8e4xzd05X .media-content .btn-bgr {
   z-index: 0;
@@ -1604,6 +1604,8 @@ body {
 .cid-r8e4xzd05X .media-container-row {
   justify-content: flex-start;
   -webkit-justify-content: flex-start;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
 }
 .cid-r8e4xzd05X .mbr-text,
 .cid-r8e4xzd05X .mbr-section-btn {
