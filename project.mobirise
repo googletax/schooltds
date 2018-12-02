@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "schoolTds",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -335,7 +335,7 @@
                 "text": "<b>you just move forward in building a new nation</b><br><b><br></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">know more</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"index.html#form4-b\" data-toolbar=\"-mbrBtnMove\">contact us</a>",
                 "overlayOpacity": "0.8",
-                "overlayColor": "#000000"
+                "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
