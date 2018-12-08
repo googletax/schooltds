@@ -1154,6 +1154,30 @@
         },
         {
           "_styles": {
+            "@-webkit-keyframes fadeInUp": {
+              "from": {
+                "opacity": "0",
+                "-webkit-transform": "translate3d(0, 2000px, 0)",
+                "transform": "translate3d(0, 2000px, 0)"
+              },
+              "to": {
+                "opacity": "1",
+                "-webkit-transform": "none",
+                "transform": "none"
+              }
+            },
+            "@keyframes fadeInUp": {
+              "from": {
+                "opacity": "0",
+                "-webkit-transform": "translate3d(0, 2000px, 0)",
+                "transform": "translate3d(0, 2000px, 0)"
+              },
+              "to": {
+                "opacity": "1",
+                "-webkit-transform": "none",
+                "transform": "none"
+              }
+            },
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'color')": {
