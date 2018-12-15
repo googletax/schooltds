@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "schoolTds",
-    "currentPage": "page3.html",
+    "currentPage": "taxcalculator.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -2316,7 +2316,7 @@
         }
       ]
     },
-    "page3.html": {
+    "taxcalculator.html": {
       "settings": {
         "title": "Tax calculator",
         "order": 2
