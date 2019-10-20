@@ -1893,10 +1893,6 @@ body {
 .cid-rF3InqPBtr .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rF3InqPBtr .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rF3InqPBtr .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rF3InqPBtr .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rF3InqPBtr .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1997,10 +1993,6 @@ body {
   .cid-rF3InqPBtr .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rF3InqPBtr .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rF3InqPBtr .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rF3InqPBtr .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rF3InqPBtr .navbar-collapse.collapsing .navbar-buttons,
   .cid-rF3InqPBtr .navbar-collapse.show .navbar-buttons {
@@ -2300,10 +2292,6 @@ body {
 .cid-rF3InqPBtr .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rF3InqPBtr .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rF3InqPBtr .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rF3InqPBtr .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rF3InqPBtr .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2405,10 +2393,6 @@ body {
   .cid-rF3InqPBtr .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-rF3InqPBtr .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rF3InqPBtr .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-rF3InqPBtr .navbar-collapse.collapsing .navbar-buttons,
   .cid-rF3InqPBtr .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2472,15 +2456,15 @@ body {
 .cid-rF3InqPBtr .dropdown-item:hover {
   color: #f7ed4a !important;
 }
-#custom-html-r {
+#custom-html-t {
   /* Type valid CSS here */
 }
-#custom-html-r div {
+#custom-html-t div {
   padding: 80px 0;
   color: #777;
   text-align: center;
 }
-#custom-html-r p {
+#custom-html-t p {
   font-size: 60px;
   color: #777;
 }
